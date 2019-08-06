@@ -34,6 +34,9 @@ En la carpeta sandbox
 python app.py
 ```
 
+### Authentication
+Para volver a loguear el cliente en Google Drive borrar el archivo token.pickle
+
 # Autor
 Luciano More.
 
