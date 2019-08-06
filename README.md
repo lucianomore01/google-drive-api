@@ -3,8 +3,9 @@ API en Python con Flask para comunicarnos con Google drive para leer y crear arc
 
 ## Instrucciones.
 
+Descargar [GIT](https://git-scm.com/downloads)
+
 Descargar el código del proyecto:
-Descargar 
 ```
 git clone https://github.com/lucianomore01/google-drive-api.git
 ```
